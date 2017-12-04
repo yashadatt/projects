@@ -10,7 +10,7 @@ int main()
  	cout << "\nHow many numbers you want to enter: ";
  	cin >> numbers;
  	cout << "\nEnter value of k: ";
- 	cin >> k;
+ 	cin >> k;//yz
  	for(int i = 0; i < numbers; i++)
  	{
  		 cout << "\nEnter Number " << i+1 << ": ";
